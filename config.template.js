@@ -22,7 +22,7 @@ angular.module('formioAppBasic').constant('AppConfig', {
     userForm: APP_URL + '/user',
     userLoginForm: APP_URL + '/user/login',
     userRegisterForm: APP_URL + '/user/register',
-	substringform: APP_URL + '/substringleft'
+	substringform: APP_URL + '/substring'
   },
   resources: {
     user: {
